@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kaumil-Portfolio/static/css/main.0b7e57da.css",
-    "main.js": "/Kaumil-Portfolio/static/js/main.3495c204.js",
+    "main.js": "/Kaumil-Portfolio/static/js/main.1fdab46d.js",
     "static/js/787.128fc6e9.chunk.js": "/Kaumil-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/youtubeApi.png": "/Kaumil-Portfolio/static/media/youtubeApi.94665adb2b3e08ed1531.png",
     "static/media/chatApp.png": "/Kaumil-Portfolio/static/media/chatApp.84445dca53eb4148c085.png",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/Kaumil-Portfolio/static/media/pre.c419ec49ac0d98ca8cf1.svg",
     "index.html": "/Kaumil-Portfolio/index.html",
     "main.0b7e57da.css.map": "/Kaumil-Portfolio/static/css/main.0b7e57da.css.map",
-    "main.3495c204.js.map": "/Kaumil-Portfolio/static/js/main.3495c204.js.map",
+    "main.1fdab46d.js.map": "/Kaumil-Portfolio/static/js/main.1fdab46d.js.map",
     "787.128fc6e9.chunk.js.map": "/Kaumil-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b7e57da.css",
-    "static/js/main.3495c204.js"
+    "static/js/main.1fdab46d.js"
   ]
 }
