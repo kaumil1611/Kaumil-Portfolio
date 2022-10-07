@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kaumil-Portfolio/static/css/main.0b7e57da.css",
+    "main.js": "/Kaumil-Portfolio/static/js/main.3495c204.js",
+    "static/js/787.128fc6e9.chunk.js": "/Kaumil-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/youtubeApi.png": "/Kaumil-Portfolio/static/media/youtubeApi.94665adb2b3e08ed1531.png",
+    "static/media/chatApp.png": "/Kaumil-Portfolio/static/media/chatApp.84445dca53eb4148c085.png",
+    "static/media/petsloveHomePage.jpg": "/Kaumil-Portfolio/static/media/petsloveHomePage.d6f294e994475eeea7b6.jpg",
+    "static/media/lawyerportal.png": "/Kaumil-Portfolio/static/media/lawyerportal.8016d42cfb5bebac30eb.png",
+    "static/media/home-main.svg": "/Kaumil-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Kaumil-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Kaumil_Patel_Resume.pdf": "/Kaumil-Portfolio/static/media/Kaumil_Patel_Resume.4a29504d4de2f86c2f65.pdf",
+    "static/media/home-bg.jpg": "/Kaumil-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Kaumil-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Kaumil-Portfolio/static/media/pre.c419ec49ac0d98ca8cf1.svg",
+    "index.html": "/Kaumil-Portfolio/index.html",
+    "main.0b7e57da.css.map": "/Kaumil-Portfolio/static/css/main.0b7e57da.css.map",
+    "main.3495c204.js.map": "/Kaumil-Portfolio/static/js/main.3495c204.js.map",
+    "787.128fc6e9.chunk.js.map": "/Kaumil-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7e57da.css",
+    "static/js/main.3495c204.js"
+  ]
+}
