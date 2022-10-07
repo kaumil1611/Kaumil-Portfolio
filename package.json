@@ -1,5 +1,6 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://kaumil1611.github.io/Kaumil-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,7 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.1",
     "eslint-config-react-app": "^7.0.1",
+    "gh-pages": "^4.0.0",
     "i": "^0.3.7",
     "npm": "^8.19.2",
     "react": "^18.2.0",
@@ -26,6 +28,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
